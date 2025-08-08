@@ -113,13 +113,9 @@ This project demonstrates:
 - Foundation framework
 - Xcode (for building and running)
 
-## License
-
-Copyright Apps Bay Limited. All rights reserved.
-
 ## Author
 
-Created by Banghua Zhao on 08/08/2025
+Created by [Banghua Zhao](https://github.com/banghuazhao)
 
 ---
 
